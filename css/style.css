@@ -1,0 +1,51 @@
+article h2 				{ font-family: 'bree', serif; font-weight:normal; font-size: 60px; margin: 10px; line-height: 1em; }
+
+
+a, a:active, a:visited {color: #ccc; text-decoration:none;}
+a:hover { color:#fe57a1; }
+
+#main   {
+  background: url(../images/fruit_stripes.png) 50% 0 no-repeat fixed;
+}
+
+/* Special Colors */
+.color_purple	{ color:#AB1FD8; }
+.color_turquois	{ color:#00FFE0; }
+.color_green	{ color:#ABC65D; }
+.color_orange	{ color:#DFB626; }
+.color_pink		{ color:#fe57a1; }
+
+/* Introduction */
+#first {
+  height: 100vh;
+  padding: 0;
+  width: 100%;
+  max-width: 900px;
+  position: relative;
+  margin: 0 auto;
+}
+
+#first .alexortizlogo {
+  background: url(../images/alexortiz201-logo.png) 50% 0  no-repeat fixed;
+  height: 400px;
+  width: 100%;
+  position: relative;
+  text-align: center;
+}
+.alexortizlogo-text {
+  width: 90%;
+}
+
+#first article {
+  text-align: center;
+}
+#first article p {
+  font-size: 16px;
+  color: #fff;
+}
+
+/* Philosophy */
+/*#second { }
+#second article { background-color: #1D1D1D; color: #fff; width: 500px; margin: 100px auto 0; padding: 20px; line-height: 2em; box-shadow: 0 0 25px rgba(0,0,0,0.3); border: 1px solid rgba(150,150,150,0.1); }
+#second article p { padding:0 20px; margin-bottom: 25px; font-size:14px; }
+#second article a { color: #ff0;}*/
