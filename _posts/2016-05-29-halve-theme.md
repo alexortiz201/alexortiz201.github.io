@@ -3,6 +3,7 @@ layout: post
 title:  "Example Ref Post"
 date:   2016-05-29
 excerpt: "Example Md usage."
+published: false
 tag:
 - jekyll 
 - example
