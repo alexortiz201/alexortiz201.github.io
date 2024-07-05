@@ -1,7 +1,7 @@
 # Site
 title: Purple Dreams
 description: Purple Dreams' Portfolio
-url: https://alexortiz201.github.io
+url: https://purpledreams.io
 logo: logo.png                                       # Site logo
 locale: en_US
 
@@ -29,7 +29,7 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+# email:             email
 #google.plus:        username
 twitter:            AOrtiz201
 #facebook:           username
